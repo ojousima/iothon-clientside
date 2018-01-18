@@ -1,0 +1,27 @@
+{
+  "name": "iothon-clientside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojousima/iothon-clientside.git"
+  },
+  "keywords": [
+    "IOTA",
+    "IoThon",
+    "RuuviTag"
+  ],
+  "author": "Otso Jousimaa",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ojousima/iothon-clientside/issues"
+  },
+  "homepage": "https://github.com/ojousima/iothon-clientside#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.4.6"
+  }
+}
