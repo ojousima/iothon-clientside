@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ojousima/iothon-clientside#readme",
   "dependencies": {
-    "iota.lib.js": "^0.4.6"
+    "iota.lib.js": "^0.4.6",
+    "ruuvi.endpoints.js": "^1.0.0"
   }
 }
